@@ -8,11 +8,17 @@ Dataset Description
 The dataset includes quarterly Netflix streaming data with the following key fields:
 
 Date: Month–Year (Quarterly)
+
 Global Revenue
+
 Regional Revenue: UCAN, EMEA, APAC, LATM
+
 Paid Subscribers (region-wise)
+
 RPU / ARPU (region-wise)
+
 Netflix Streaming Memberships: Total global memberships
+
 All revenue values are in US Dollars.
 
 Data Source: Kaggle – Netflix OTT Revenue and Number of Paid Subscribers
@@ -20,13 +26,17 @@ Data Source: Kaggle – Netflix OTT Revenue and Number of Paid Subscribers
 Target Audience
 
 Students and learners in data analytics
+
 Analysts and researchers interested in OTT and streaming industry trends
 
 Tools Used
 
 Power BI
+
 Data modeling and measures
+
 Interactive dashboards and visual analysis
+
 Regional and time-based comparisons
 
 Note: This repository contains only the Power BI (.pbix) file and the raw dataset.
@@ -34,13 +44,17 @@ Note: This repository contains only the Power BI (.pbix) file and the raw datase
 Key Outputs
 
 Interactive dashboards showing:
+
 Streaming revenue trends over time
+
 Subscriber growth by region
+
 RPU / ARPU comparison across regions
 
 Visuals include:
 
 Line charts for trend analysis
+
 Box plots for regional distribution and variation
 
 Key Learnings
