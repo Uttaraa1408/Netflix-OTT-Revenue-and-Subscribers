@@ -1,9 +1,9 @@
 # Netflix OTT Revenue, Subscribers & RPU Analysis
-Project Overview
+### Project Overview
 
 This project analyzes Netflix’s global and regional performance using streaming revenue, paid subscribers, and revenue per user (RPU / ARPU) data. The analysis covers January 2019 to March 2023 and highlights regional trends and differences that influence Netflix’s overall business performance. Interactive dashboards were built using Power BI to explore historical trends and regional comparisons.
 
-Dataset Description
+### Dataset Description
 
 The dataset includes quarterly Netflix streaming data with the following key fields:
 
@@ -21,15 +21,15 @@ Netflix Streaming Memberships: Total global memberships
 
 All revenue values are in US Dollars.
 
-Data Source: Kaggle – Netflix OTT Revenue and Number of Paid Subscribers
+### Data Source: Kaggle – Netflix OTT Revenue and Number of Paid Subscribers
 
-Target Audience
+### Target Audience
 
 Students and learners in data analytics
 
 Analysts and researchers interested in OTT and streaming industry trends
 
-Tools Used
+### Tools Used
 
 Power BI
 
@@ -41,7 +41,7 @@ Regional and time-based comparisons
 
 Note: This repository contains only the Power BI (.pbix) file and the raw dataset.
 
-Key Outputs
+### Key Outputs
 
 Interactive dashboards showing:
 
@@ -51,13 +51,13 @@ Subscriber growth by region
 
 RPU / ARPU comparison across regions
 
-Visuals include:
+### Visuals include:
 
 Line charts for trend analysis
 
 Box plots for regional distribution and variation
 
-Key Learnings
+### Key Learnings
 
 Improved understanding of OTT business metrics
 Hands-on experience with Power BI visuals, measures, and dashboards
